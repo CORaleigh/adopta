@@ -1,0 +1,8 @@
+@import 'https://js.arcgis.com/4.7/esri/css/main.css';
+
+.esri-view {
+    padding: 0;
+    margin: 0;
+    height: calc(100% - 62px);
+    width: 100%;
+  }
